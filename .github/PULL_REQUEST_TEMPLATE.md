@@ -1,12 +1,12 @@
 # PR Type
--Features
--Bug Fix
--Documentation
--ETC
+- Features
+- Bug Fix
+- Documentation
+- ETC
 
 # Description
--dd
--dd
+- dd
+- dd
 
 ## 
 
